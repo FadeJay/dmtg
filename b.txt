@@ -1,5 +1,17 @@
 {
-    "urls": [
+    "urls": [  
+        {
+            "url": "http://cdn.yydsys.top/duo",
+            "name": "应用多多备用"
+        },
+        {
+            "url": "http://101.34.67.237/config/1",
+            "name": "小雅线路"
+        },  
+        {
+            "url": "https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt",
+            "name": "教育专线"
+        },  
         {
             "url": "https://la.kstore.space/download/2863/01.txt",
             "name": "潇洒线路"
@@ -47,6 +59,14 @@
         {
             "url": "https://ju.binghe.ga/4.txt",
             "name": "冰河线路"
-        }
+        },
+         {
+            "url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
+            "name": "胖鸭线路"
+        },
+        {
+            "url": "https://www.lianyingtv.com/fast/fast",
+            "name": "恋影线路"
+        }		
     ]
 }
